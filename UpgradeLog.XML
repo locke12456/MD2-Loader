@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BSP">
+</Property><Property Name="方案檔" Value="I:\Source Code\Opengl\source\BSP.sln">
+</Property><Property Name="使用者選項檔" Value="I:\Source Code\Opengl\source\BSP.suo">
+</Property><Property Name="Date" Value="2011年12月17日">
+</Property><Property Name="Time" Value="下午 12:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BSP.sln" Description="檔案已成功備份為 I:\Source Code\Opengl\source\BSP.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="BSP.suo" Description="檔案已成功備份為 I:\Source Code\Opengl\source\BSP.suo.old">
+</Event><Event ErrorLevel="0" Project="BSP" Source="BSP.vcproj" Description="Converting project file 'I:\Source Code\Opengl\source\BSP.vcproj'.">
+</Event><Event ErrorLevel="1" Project="BSP" Source="BSP.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="BSP" Source="BSP.vcproj" Description="MSB8012: $(TargetPath) ('I:\Source Code\Opengl\source\.\Release\BSP.exe') does not match the Linker's OutputFile property value '.\Release/BSP.exe' ('I:\Source Code\Opengl\source\Release/BSP.exe') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="BSP" Source="BSP.vcproj" Description="MSB8012: $(TargetPath) ('I:\Source Code\Opengl\source\.\Debug\BSP.exe') does not match the Linker's OutputFile property value '.\Debug/BSP.exe' ('I:\Source Code\Opengl\source\Debug/BSP.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="BSP" Source="BSP.vcproj" Description="Done converting to new project file 'I:\Source Code\Opengl\source\BSP.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="BSP" Source="BSP.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BSP.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="BSP.sln" Description="Converted">
+</Event></UpgradeLog>
